@@ -42,6 +42,33 @@
       {
          "class": "DepictionSeparatorView"
       },
+
+{
+  "form": {
+    "@action": "https://formspree.io/f/mnqljbjy",
+    "@method": "POST",
+    "label": [
+      {
+        "input": {
+          "@type": "email",
+          "@name": "_replyto"
+        },
+        "#text": "Your email:"
+      },
+      {
+        "textarea": {
+          "@name": "message"
+        },
+        "#text": "Your message:"
+      }
+    ],
+    "#comment": "",
+    "button": {
+      "@type": "submit",
+      "#text": "Send"
+    }
+  }
+}
       {
          "markdown": "If you would like to request a refund, you can do so from your Dynastic Account.",
          "useSpacing": true,
