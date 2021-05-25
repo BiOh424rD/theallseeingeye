@@ -1,6 +1,6 @@
 {
    "title": "Support",
-   "tintColor": "#7887f7",
+   "tintColor": "#DABD07",
    "views": [
       {
          "markdown": "If you are experiencing <em>problems</em>",
@@ -23,7 +23,7 @@
       },
       {
          "title": "Visit Support Website",
-         "action": "https://support.co",
+         "action": "#DABD07",
          "openExternal": true,
          "class": "DepictionTableButtonView"
       },
