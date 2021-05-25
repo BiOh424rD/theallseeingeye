@@ -3,7 +3,7 @@
    "tintColor": "#7887f7",
    "views": [
       {
-         "markdown": "If you are experiencing problems with <em>JETsamPACK</em>",
+         "markdown": "If you are experiencing <em>problems</em>",
          "useSpacing": true,
          "useRawFormat": true,
          "class": "DepictionMarkdownView"
@@ -17,7 +17,7 @@
       },
       {
          "title": "Send an Email",
-         "action": "mailto:support@notyet.co",
+         "action": "mailto:notyet@notyet.co",
          "openExternal": true,
          "class": "DepictionTableButtonView"
       },
