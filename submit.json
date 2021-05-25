@@ -22,8 +22,8 @@
          "class": "DepictionTableButtonView"
       },
       {
-         "title": "or you could open iCleaner",
-         "action": "icleaner://",
+         "title": "or you could just open iCleaner",
+         "action": "icleaner:// ",
          "openExternal": true,
          "class": "DepictionTableButtonView"
       },
