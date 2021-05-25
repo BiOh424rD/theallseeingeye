@@ -22,8 +22,8 @@
          "class": "DepictionTableButtonView"
       },
       {
-         "title": "Visit Support Website",
-         "action": "#DABD07",
+         "title": "or you could open iCleaner",
+         "action": "icleaner://",
          "openExternal": true,
          "class": "DepictionTableButtonView"
       },
